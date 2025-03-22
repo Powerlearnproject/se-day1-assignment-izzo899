@@ -28,7 +28,7 @@ Software engineering is a branch of computer science focused on developing, test
 - **Agile Methodology**
   - Iterative and incremental with multiple cycles (sprints).
   - High flexibility, adapts to changing requirements.
-  - Regular customer feedback is incorporated (e.g., mobile app development).
+  - Regular customer feedback is incorporated (e.g., mobile app development)
 
 ### **Roles in a Software Engineering Team**
 - **Software Developer** – Writes, maintains, and updates software applications.
